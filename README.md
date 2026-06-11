@@ -704,7 +704,7 @@ The demo contact information embedded in the frontend:
 |---|---|
 | **Phone** | +91 (78)994-96-87 |
 | **Email** | INFO@GetAWAY.COM |
-| **Address** | Summi Nager, Tannirbhavi, Mangalore, India |
+| **Address** | Padma Nager, Tannirbhavi, Mangalore, India |
 | **Location** | Tannirbhavi Beach, Mangalore, Karnataka, India |
 
 ---
